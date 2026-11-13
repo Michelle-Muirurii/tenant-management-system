@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.util.Log
 import androidx.navigation.fragment.findNavController
 import androidx.fragment.app.Fragment
-import com.example.tenantmanagementsystem.DashboardFragmentDirections
+
 import com.example.tenantmanagementsystem.data.repository.TenantRepository
 // Generated from fragment_dashboard.xml (View Binding)
 import com.example.tenantmanagementsystem.databinding.FragmentDashboardBinding
